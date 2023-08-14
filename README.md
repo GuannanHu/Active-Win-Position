@@ -9,7 +9,7 @@ You simply change (MWTop_Left_x. MWTop_Left_y) to specify the monitor.
 
 ```
         var MWTop_Left_x = 1440;
-        var MWTop_Left_y = 0; // coordinates of left top point of specified monitor.
+        var MWTop_Left_y = 0; // coordinates of the left top point of the specified monitor.
         var MW_width = 3840;
         var MW_height = 2160; // dimensions of the specified monitor.
 ```
