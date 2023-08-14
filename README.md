@@ -1,7 +1,7 @@
 # MoWinToCenAP
 
 This is a Kwin script template to move the active window to a specified position  with a keyboard shortcut `Alt+c`.
-If you have a 4k in the middle and 2k on the left side, the script will move the active window to the center of 4k monitor.
+If you have a 4k in the middle horizontally and 2k on the left side vertically, the script will move the active window to the center of 4k monitor.
 
 KDE 5.108.0 / Plasma 5.27.6 can move moves the active window to the center of the monitor therein which probably is not the center of your main monitor if you have more than one.
 
