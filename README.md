@@ -23,7 +23,11 @@ And change the following formula to move it to any relative position of the spec
 
 
 Download the package then run in terminal
-``` kpackagetool5 --type=KWin/Script -i yourfoldname/MoWinToCenAP.zip```
+
+```
+kpackagetool5 --type=KWin/Script -i yourfoldname/MoWinToCenAP.zip
+
+```
 
 Or simply extract it to a single folder and copy the folder to
 ```
